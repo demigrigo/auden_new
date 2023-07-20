@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0078.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</title>
+            <author>Auden, W. H.</author>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </editor>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Transcription and commentary</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C30C-9</idno></publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Stella Musulin (Depot)</collection>
+                        <idno>1, 18</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate notBefore="1968-10-06" notAfter="1968-10-06">1968-10-06</origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         
+         <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_231">Bucknell, Katherine</persName>
+               <placeName ref="#amp_place_id_305">70 Lexham Gardens</placeName>
+               <date notBefore="1989-04-07" notAfter="1989-04-07">1989-04-07</date>
+            </correspAction>
+            <correspAction type="sent">
+               <persName ref="#amp_person_">Bucknell, Katherine</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_231">Bucknell, Katherine</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__.xml">.......................</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__.xml">....................</ref>
+            </correspContext>
+         </correspDesc>
+         
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="dgrigoriou" when="2023-07-20">text transcribed</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4582" lry="3514">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>  
+      </surface>
+      <surface ulx="0" uly="0" lrx="4580" lry="3512">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7656">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7662">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
+      </surface>
+   </facsimile>
+   <text type="letter" hand="#typed">
+      <body>
+         <div xml:id="transcription">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/..................../" type="sheet"/>
+            <p>
+               <rs type="org" ref="#amp_organization_69">Oxford University Press</rs><lb/>
+               <rs type="lit_work" ref="#lit_work_id_153">Auden Studies</rs><lb/>
+               <hi rend="italics">Editors</hi> <rs type="person" ref="#amp_person_231">KATHERINE BUCKNELL</rs> <rs type="person" ref="#amp_person_232">NICHOLAS JENKINS</rs>
+            </p>
+            <p>
+               <rs type="place" ref="#amp_place_id_305">70 Lexham Gardens<lb/>
+               London W8 SJB</rs>
+            </p>
+            <p>
+               April 7, 1989
+            </p>
+            <p>
+               <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+               Fridau<lb/>
+               A-3200 Obergrafendorf
+            </p>    
+            <p>
+               Dear Ms. Musulin,<lb/>
+               I have very much enjoyed reading your piece on Auden in Kirchstetten; it is lively and warm and<lb/>
+               fascinating. We would like to publish it in Auden Studies 2, and we hope that you will be willing to make a few<lb/>
+               changes to this end.
+            </p>
+            <p>
+               Most of all, the piece is a little long for us. I don't want to suggest a strict word limit because I like<lb/> 
+               the chatty anecdotal feel of it, but would it be possible to reduce the length by about 20% to 25%? I gather that the<lb/> 
+               first section was a lecture, and perhaps the opening, for a printed book, could be a bit more incisive; the<lb/> 
+               opening of the second section might also be more direct. In fact, for our purposes, it would be better if the two<lb/> 
+               sections were integrated into one, or at least dovetailed more efficiently so that any repetition in avoided. (For instance the tax problem comes up at the end of the first section but then is not gone into until quite a bit<lb/> 
+               further on in the second section.) If you cannot fully combine the two sections, you might consider making them more clearly balanced and parallel, and perhaps giving each one a date (of composition) as a subtitle.<lb/> 
+               Finally, I think you could save some space at the end by shortening the account of the funeral arrangements.
+            </p>
+            <p>
+               In one or two places I found myself mildly confused and wishing for clarification. First of all, we do not<lb/> 
+               seem to have page 24 of your first section. Second, in the first account of the speech given at Neulengbach I felt<lb/> 
+               unsure as to what exactly was being quoted and paraphrased from the speech - probably because I don't have a<lb/> 
+               text of the speech - perhaps you could spell this out a bit more in the piece. Third, I was unclear as to whether<lb/> 
+               the 'In Retrospect' has already been published in a volume edited by Peter Müller, you seem to suggest this in<lb/> 
+               your opening passage. We would want to be sure to give details of your PEN talk and any previous publication<lb/> 
+               in a footnote at the start of the piece, so I would be grateful if you could provide these.
+            </p>
+            <p>
+               With regard to footnotes, it would be helpful if you could give exact citations for everything you quote<lb/>
+               from Auden's published works, poetry and prose. I am enclosing a copy of 'Notes to OUP Authors' which you<lb/> 
+               may find helpful in this and other matters of presentation. I hope you won't find it daunting; it's not nearly so<lb/> 
+               dull or difficult as it looks. The footnotes you have given are not far off our usual form; we normally use a<lb/> 
+               comma after the author's name, and underline titles of books and periodicals. Also, we give place of<lb/> 
+               publication, but not the name of the publisher. For most of the books you cite, we will probably use an<lb/> 
+               abbreviated form of reference, but in any case, it would be useful to have things set down properly in full. Also,<lb/> 
+               for your own letters from Auden, if any of these are dated more precisely than you already indicate, please add<lb/> 
+               further details.
+            </p>
+            <p>
+               You will see that I have not returned your manuscript with this letter. I would like to keep it, if you<lb/> 
+               have another copy that you can work from. If not, please let me know.
+            </p>
+            <p>
+               I am sorry that we have taken so long getting back to you about this. I look forward to hearing from<lb/> 
+               you when you have the opportunity.
+               Yours with best wishes,
+               Katherine Bucknell
+               Katherine Bucknell
+            </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/" type="sheet"/>
+         </div>
+      </body>
+   </text>
+</TEI>
