@@ -121,7 +121,7 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/..................../" type="sheet"/>
-            <p>
+            <p hand="#typed">
                <rs type="org" ref="#amp_organization_69">Oxford University Press</rs><lb/>
                <rs type="lit_work" ref="#lit_work_id_153">Auden Studies</rs><lb/>
                <hi rend="italics">Editors</hi> <rs type="person" ref="#amp_person_231">KATHERINE BUCKNELL</rs> <rs type="person" ref="#amp_person_232">NICHOLAS JENKINS</rs>
@@ -135,42 +135,42 @@ for any purpose, even commercially.</p>
             </p>
             <p>
                <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
-               Fridau<lb/>
-               A-3200 Obergrafendorf
+               <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
+               A-3200 Obergrafendorf</rs>
             </p>    
             <p>
-               Dear Ms. Musulin,<lb/>
-               I have very much enjoyed reading your piece on Auden in Kirchstetten; it is lively and warm and<lb/>
+               Dear <rs type="person" ref="#amp_person_2">Ms. Musulin</rs>,<lb/>
+               I have very much enjoyed reading your piece on <rs type="lit_work" ref="#lit_work_id_50">Auden in Kirchstetten</rs>; it is lively and warm and<lb/>
                fascinating. We would like to publish it in Auden Studies 2, and we hope that you will be willing to make a few<lb/>
                changes to this end.
             </p>
             <p>
-               Most of all, the piece is a little long for us. I don't want to suggest a strict word limit because I like<lb/> 
+               Most of all, <rs type="lit_work" ref="#lit_work_id_50">the piece</rs> is a little long for us. I don't want to suggest a strict word limit because I like<lb/> 
                the chatty anecdotal feel of it, but would it be possible to reduce the length by about 20% to 25%? I gather that the<lb/> 
                first section was a lecture, and perhaps the opening, for a printed book, could be a bit more incisive; the<lb/> 
                opening of the second section might also be more direct. In fact, for our purposes, it would be better if the two<lb/> 
                sections were integrated into one, or at least dovetailed more efficiently so that any repetition in avoided. (For instance the tax problem comes up at the end of the first section but then is not gone into until quite a bit<lb/> 
                further on in the second section.) If you cannot fully combine the two sections, you might consider making them more clearly balanced and parallel, and perhaps giving each one a date (of composition) as a subtitle.<lb/> 
-               Finally, I think you could save some space at the end by shortening the account of the funeral arrangements.
+               Finally, I think you could save some space at the end by shortening the account of the <rs type="event" ref="#amp_event_id_40">funeral arrangements</rs>.
             </p>
             <p>
                In one or two places I found myself mildly confused and wishing for clarification. First of all, we do not<lb/> 
-               seem to have page 24 of your first section. Second, in the first account of the speech given at Neulengbach I felt<lb/> 
-               unsure as to what exactly was being quoted and paraphrased from the speech - probably because I don't have a<lb/> 
-               text of the speech - perhaps you could spell this out a bit more in the piece. Third, I was unclear as to whether<lb/> 
-               the 'In Retrospect' has already been published in a volume edited by Peter Müller, you seem to suggest this in<lb/> 
+               seem to have page 24 of your first section. Second, in the first account of the <rs type="lit_work" ref="#lit_work_id_85">speech given at Neulengbach</rs> I felt<lb/> 
+               unsure as to what exactly was being quoted and paraphrased from the <rs type="lit_work" ref="#lit_work_id_85">speech</rs> - probably because I don't have a<lb/> 
+               <rs type="lit_work" ref="#lit_work_id_85">text of the speech</rs> - perhaps you could spell this out a bit more in the piece. Third, I was unclear as to whether<lb/> 
+               the <rs type="lit_work" ref="#lit_work_id_46">'In Retrospect'</rs> has already been published in a volume edited by <rs type="person" ref="#amp_person_119">Peter Müller</rs>, you seem to suggest this in<lb/> 
                your opening passage. We would want to be sure to give details of your PEN talk and any previous publication<lb/> 
                in a footnote at the start of the piece, so I would be grateful if you could provide these.
             </p>
             <p>
                With regard to footnotes, it would be helpful if you could give exact citations for everything you quote<lb/>
-               from Auden's published works, poetry and prose. I am enclosing a copy of 'Notes to OUP Authors' which you<lb/> 
+               from <rs type="person" ref="#amp_person_1">Auden</rs>'s published works, poetry and prose. I am enclosing a copy of 'Notes to OUP Authors' which you<lb/> 
                may find helpful in this and other matters of presentation. I hope you won't find it daunting; it's not nearly so<lb/> 
                dull or difficult as it looks. The footnotes you have given are not far off our usual form; we normally use a<lb/> 
                comma after the author's name, and underline titles of books and periodicals. Also, we give place of<lb/> 
                publication, but not the name of the publisher. For most of the books you cite, we will probably use an<lb/> 
                abbreviated form of reference, but in any case, it would be useful to have things set down properly in full. Also,<lb/> 
-               for your own letters from Auden, if any of these are dated more precisely than you already indicate, please add<lb/> 
+               for your own letters from <rs type="person" ref="#amp_person_1">Auden</rs>, if any of these are dated more precisely than you already indicate, please add<lb/> 
                further details.
             </p>
             <p>
@@ -179,10 +179,14 @@ for any purpose, even commercially.</p>
             </p>
             <p>
                I am sorry that we have taken so long getting back to you about this. I look forward to hearing from<lb/> 
-               you when you have the opportunity.
+               you when you have the opportunity.<lb/> 
                Yours with best wishes,
+            </p>
+            <p>
                Katherine Bucknell
-               Katherine Bucknell
+            </p>    
+            <p hand="#typed">
+               <rs type="person" ref="#amp_person_231">Katherine Bucknell</rs>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/" type="sheet"/>
          </div>
