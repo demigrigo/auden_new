@@ -141,7 +141,7 @@ for any purpose, even commercially.</p>
             <p>
                Dear <rs type="person" ref="#amp_person_2">Ms. Musulin</rs>,<lb/>
                I have very much enjoyed reading your piece on <rs type="lit_work" ref="#lit_work_id_50">Auden in Kirchstetten</rs>; it is lively and warm and<lb/>
-               fascinating. We would like to publish it in Auden Studies 2, and we hope that you will be willing to make a few<lb/>
+               fascinating. We would like to publish it in <rs type="lit_work" ref="#lit_work_id_154">Auden Studies 2</rs>, and we hope that you will be willing to make a few<lb/>
                changes to this end.
             </p>
             <p>
@@ -155,7 +155,7 @@ for any purpose, even commercially.</p>
             </p>
             <p>
                In one or two places I found myself mildly confused and wishing for clarification. First of all, we do not<lb/> 
-               seem to have page 24 of your first section. Second, in the first account of the <rs type="lit_work" ref="#lit_work_id_85">speech given at Neulengbach</rs> I felt<lb/> 
+               seem to have page 24 of your first section. Second, in the first account of the <rs type="lit_work" ref="#lit_work_id_85">speech given at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs></rs> I felt<lb/> 
                unsure as to what exactly was being quoted and paraphrased from the <rs type="lit_work" ref="#lit_work_id_85">speech</rs> - probably because I don't have a<lb/> 
                <rs type="lit_work" ref="#lit_work_id_85">text of the speech</rs> - perhaps you could spell this out a bit more in the piece. Third, I was unclear as to whether<lb/> 
                the <rs type="lit_work" ref="#lit_work_id_46">'In Retrospect'</rs> has already been published in a volume edited by <rs type="person" ref="#amp_person_119">Peter Müller</rs>, you seem to suggest this in<lb/> 
@@ -164,7 +164,7 @@ for any purpose, even commercially.</p>
             </p>
             <p>
                With regard to footnotes, it would be helpful if you could give exact citations for everything you quote<lb/>
-               from <rs type="person" ref="#amp_person_1">Auden</rs>'s published works, poetry and prose. I am enclosing a copy of 'Notes to OUP Authors' which you<lb/> 
+               from <rs type="person" ref="#amp_person_1">Auden</rs>'s published works, poetry and prose. I am enclosing a copy of <rs type="lit_work" ref="#lit_work_id_155">'Notes to OUP Authors'</rs> which you<lb/> 
                may find helpful in this and other matters of presentation. I hope you won't find it daunting; it's not nearly so<lb/> 
                dull or difficult as it looks. The footnotes you have given are not far off our usual form; we normally use a<lb/> 
                comma after the author's name, and underline titles of books and periodicals. Also, we give place of<lb/> 
